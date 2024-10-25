@@ -1,0 +1,135 @@
+.parent{
+    margin: 0 auto;
+    box-sizing: border-box;
+
+}
+.head-1{
+    background-color: orangered;
+    height: 35px;
+    
+}
+.head-1 ul{
+    list-style: none;
+    display: flex;
+    margin-left: 50%;
+    color: white;
+    
+}
+.head-1 li{
+    padding: 10px;
+}
+#box-2{
+    background-color: orangered;
+    display: flex;
+    height: 90px;
+
+}
+#box-2 img{
+    width: 150px;
+    height: 60px;
+    margin-left: 80px;
+}
+#box-2 input {
+    width: 600px;
+    height: 45px;
+    margin-top: 15px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 3px;
+
+}
+#box-2 .cart img{
+    width: 25px;
+    height: 30px;
+    margin-top: 20px;
+    padding-right: 50px;
+
+    
+}
+.parent{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    .box-1{
+        height: 500px;
+        width: 800px;
+        margin: 0 auto;
+        border-radius: 15px;
+        background-color: white;
+        box-shadow: 0rem;
+    }
+    .image{
+        margin-left: 215px;
+        margin-bottom: 50px;
+        
+    }
+    
+    .login{
+        border-radius: 5px;
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    
+    }
+    .pass{
+        border-radius: 5px;
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 100px;
+    
+    }
+    .btn{
+        margin: 0 auto;
+        border: 2px solid red;
+        width: 50%;
+        margin-bottom: 200px;
+    }
+    .card-1{
+        display: flex;
+    }
+    footer {
+        background-color: #f8f8f8;
+        padding: 20px;
+        margin-top: 40px;
+    }
+
+    .footer-container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .footer-section {
+        flex: 1;
+        min-width: 200px;
+        padding: 10px;
+    }
+
+    .footer-section h4 {
+        margin-bottom: 10px;
+    }
+
+    .footer-section a {
+        text-decoration: none;
+        color: #333;
+        display: block;
+        margin: 5px 0;
+    }
+
+    .social-icons {
+        margin-top: 10px;
+    }
+
+    .social-icons a {
+        margin-right: 10px;
+        text-decoration: none;
+        color: #333;
+    }
+
+    .copyright {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 14px;
+    }
